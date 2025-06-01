@@ -1,6 +1,4 @@
 # ilyasYildirim_2305041006_BasicProgramming2_FinalAssignment
-Here is an English summary text that you can use in your project report or presentation. It is based on the instructions you provided and the contents of your three Python files (tsubasaMain.py, players.py, and saveSystem.py):
-
 Project Summary: Captain Tsubasa Football Match Simulation
 Course: Basic Programming 2
 Topic: Simulation of an Event from a Film or Game
